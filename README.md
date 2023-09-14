@@ -20,6 +20,6 @@
 
 
 ## :star2: Notes: :star2:
-:arrow_forward: Check Project Simulation provided as a Proteus project.
+:arrow_forward: Simulation is done using Proteus, check it out!
 
-:arrow_forward: Project's COTS folder is the src folder above.
+:arrow_forward: src folder is project's COTS folder following standard layered architecture hierarchy.
