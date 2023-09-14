@@ -3,9 +3,9 @@
 ## Project Features:
 :star2: Real-time garage tracking system through wired and wireless communnication means.
 
-    :star2: Wired through another ECU monitoring device(UART).
+:star2: Wired through another ECU monitoring device(UART).
     
-    :star2: Wireless through a server(WI-FI).
+:star2: Wireless through a server(WI-FI).
 
 :star2: Indication LEDs at garage door.
 
