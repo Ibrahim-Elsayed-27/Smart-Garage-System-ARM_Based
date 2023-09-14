@@ -24,4 +24,4 @@
 
 :arrow_forward: src folder is project's COTS folder following standard layered architecture hierarchy.
 
-:arrow_forward: A fully detailed presentation discussing project idea, key values, our future vision and much more is included too, don't miss it out :smiley:
+:arrow_forward: A fully detailed presentation discussing project idea, key values, our future vision and much more is included too, don't miss it out:smile:
