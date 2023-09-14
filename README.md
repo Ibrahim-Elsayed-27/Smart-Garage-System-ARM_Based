@@ -2,7 +2,7 @@
 :star2: This project is based on BlackPill microcontroller | STM32F401CCU6 | ARM CORTEX-M4
 
 ## :star2: Project Features: :star2: 
-:star2: Real-time garage tracking system through wired and wireless communnication means.
+:star2: Real-time garage tracking system through wired and wireless communication means.
 
 :star2: Wired through another ECU monitoring device(UART).
     
